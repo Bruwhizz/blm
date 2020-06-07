@@ -27,4 +27,5 @@ Black Lives Matter | All Cops Are Bad
 - [ ] https://twitter.com/i/status/1268053521816891392
 - [ ] https://twitter.com/i/status/1267198829775990787
 
+I am downloading the Videos in case Twitter is forced to remove them. The faster we can download them the more secure they will be.
 If you wish to help download Videos, there are several free services to help. Please submit the file via a pull request. Thanks!
