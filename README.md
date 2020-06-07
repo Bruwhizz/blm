@@ -3,7 +3,7 @@ Black Lives Matter | All Cops Are Bad
 
 Link: [bruwhizz/blm](https://bruwhizz.github.io/blm/)
 
-### The following Videos need to be downloaded as an '.mp4' file:
+### Unchecked Videos need to be downloaded as an '.mp4' file:
 - [ ] https://twitter.com/i/status/1267726477275148288
 - [ ] https://twitter.com/i/status/1267942895677513736
 - [ ] https://twitter.com/i/status/1267664589279371267
@@ -31,3 +31,5 @@ Link: [bruwhizz/blm](https://bruwhizz.github.io/blm/)
 
 I am downloading the Videos in case Twitter is forced to remove them. The faster we can download them the more secure they will be.
 If you wish to help download Videos, there are several free services to help. Please submit the file via a pull request. Thanks!
+
+This website is licensed under the UNLICENSE. For information, read the 'LICENSE' file in the root directory. Please share this as much as possible!
