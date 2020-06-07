@@ -1,7 +1,5 @@
-# blm
+# :black_small_square::black_medium_square::black_large_square::black_medium_square::black_small_square:
 Black Lives Matter | All Cops Are Bad
-
-:black_small_square::black_medium_small_square::black_medium_square::black_large_square::black_medium_square::black_medium_small_square::black_small_square:
 
 Link: [bruwhizz/blm](https://bruwhizz.github.io/blm/)
 
