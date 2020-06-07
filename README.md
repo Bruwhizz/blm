@@ -1,7 +1,7 @@
 # blm
 Black Lives Matter | All Cops Are Bad
 
-##The following Videos need to be downloaded as an '.mp4' file:
+## The following Videos need to be downloaded as an '.mp4' file:
 - [ ] https://twitter.com/i/status/1267726477275148288
 - [ ] https://twitter.com/i/status/1267942895677513736
 - [ ] https://twitter.com/i/status/1267664589279371267
