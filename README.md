@@ -1,6 +1,6 @@
 # blm
 Black Lives Matter | All Cops Are Bad
-
+:black_large_square::black_medium_square::black_medium_small_square::black_small_square::black_medium_small_square::black_medium_square::black_large_square:
 Link: [bruwhizz/blm](https://bruwhizz.github.io/blm/)
 
 ### The following Videos need to be downloaded as an '.mp4' file:
