@@ -1,0 +1,95 @@
+body {
+  margin: 16px 8px;
+  padding: 0px 0px;
+  background-image: url("background.gif");
+  background-repeat: repeat;
+}
+
+.header, .collection, .footer {
+  margin: 16px 8px;
+  padding: 8px 8px;
+  border: 2px solid;
+  border-color: #ffffff #808080 #808080 #ffffff;
+  background: black;
+}
+
+.border {
+  padding: 8px 8px;
+  border: 2px solid;
+  border-color: #808080 #ffffff #ffffff #808080;
+  background: #0d0d0d;
+}
+
+li {
+  list-style-type: none;
+}
+
+h1 {
+  color: white;
+  font-size: 2.75‬em;
+  font-weight: bold;
+  margin: 24px 0px;
+}
+
+h3 {
+  color: lightgrey;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: 18px 0px;
+}
+
+h4 {
+  color: lightgrey;
+  font-size: 1.15em;
+  font-weight: bold;
+  margin: 18px 0px;
+}
+
+p {
+  color: white;
+  font-size: 1em;
+}
+
+a:link {
+  text-decoration: none;
+  color: #0040ff;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #0040ff;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #bf00ff;
+}
+
+a:active {
+  text-decoration: underline;
+  color: #ff0000;
+}
+
+.serif {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.sansserif {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.code {
+  font-family: "Lucida Console", Courier, monospace;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.small {
+  font-variant: small-caps;
+}
