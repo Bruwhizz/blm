@@ -1,7 +1,7 @@
 # blm
 Black Lives Matter | All Cops Are Bad
 
-Link: [bruwhizz/blm]https://bruwhizz.github.io/blm/
+Link: [bruwhizz/blm](https://bruwhizz.github.io/blm/)
 
 ### The following Videos need to be downloaded as an '.mp4' file:
 - [ ] https://twitter.com/i/status/1267726477275148288
